@@ -34,3 +34,5 @@ for (int i = 0; i < firstArray.Length; i++)
 string[] secondArray = new string[lengthSecond];
 
 FirstToSecondArray(firstArray, secondArray);
+
+WriteArry(secondArray);
